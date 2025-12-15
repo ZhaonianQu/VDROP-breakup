@@ -1,0 +1,1 @@
+This model is a population balance model (PBM) named VDROP to calculate the droplet size distribution of dispersed phase in a continuous phase due to turbulence. The theoty can be found in the paper: https://doi.org/10.1016/j.cej.2014.04.082
